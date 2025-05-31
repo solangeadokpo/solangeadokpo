@@ -18,6 +18,8 @@ Développeuse Web & Data Scientist en devenir
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/-Phoenix-F05423?logo=phoenix-framework&logoColor=white)
 
